@@ -31,7 +31,7 @@ export default function Details() {
       <div className="flex items-center justify-center h-full w-auto gap-10 px-6 md:px-16 ">
         <article className="flex flex-col items-center justify-center gap-4 w-100 px-6 md:px-5 py-16">
           <h1 className="text-start text-3xl font-semibold text-[#242A33]">
-            A creative team which builds stunning UI/UX
+            Devoted to defining the cutting edge
           </h1>
           <p className="text-start text-sm text-[#5A6980]">
             "This new creation is cutting-edge technology," says the researcher,
