@@ -31,7 +31,7 @@ export default function Home() {
       </div>
 
       <div className="w-full h-full mt-40">
-        <div className="flex flex-wrap justify-center items-center gap-30 px-4 py-2">
+        <div className="flex flex-wrap justify-center items-center gap-30 px-4 py-2 mb-20 md:px-16 md:py-10">
           <img
             src="google.png"
             alt="Google"
